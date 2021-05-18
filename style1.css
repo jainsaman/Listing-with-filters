@@ -74,7 +74,7 @@ nav{
 }
 @media screen and (max-width: 768px){
     nav{
-        font-size: 20px;
+        font-size: 17px;
     }
     .search-box input{
         width: 60%;
